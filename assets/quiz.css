@@ -52,6 +52,15 @@ cursor: pointer;
 transform: scale(1.02);
 transform: transform 100ms;
 }
+.headDisplay-main-text{
+    font-size: 4rem;
+    justify-content: center;
+    display: flex;
+}
+.headDisplay-prefix {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
 @media (max-width: 990px) {
     .option-card {
         min-width: 30rem;
